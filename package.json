@@ -13,14 +13,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BenZed/benzed-ts.git"
+        "url": "git+https://github.com/BenZed/is.git"
     },
     "author": "BenZed",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/BenZed/benzed-ts/issues"
+        "url": "https://github.com/BenZed/is/issues"
     },
-    "homepage": "https://github.com/BenZed/benzed-ts#readme",
+    "homepage": "https://github.com/BenZed/is#readme",
     "dependencies": {
         "@benzed/string": "^3.2.3",
         "@benzed/util": "^3.9.1",
